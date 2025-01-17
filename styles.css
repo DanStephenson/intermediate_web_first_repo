@@ -1,4 +1,13 @@
 body{
-    background-color:red;
+    background-color:black;
     color:white;
+}
+
+#first{
+    color:yellow;
+}
+
+.business{
+    color:blue;
+    font-weight:bold;
 }
